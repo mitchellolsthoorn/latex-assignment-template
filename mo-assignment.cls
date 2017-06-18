@@ -19,7 +19,7 @@
 %----------------------------------------------------------------------------------------
 
 % Page typesetting
-\RequirePackage[a4paper]{geometry}	% Page margins
+\RequirePackage[]{geometry}		% Page margins
 \RequirePackage{float} 			% [H] option: the float must be placed here
 
 % Text typesetting
