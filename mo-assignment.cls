@@ -3,7 +3,7 @@
 % LaTeX Template
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{assignment}[2017/6/12 LaTeX assignment template]
+\ProvidesClass{mo-assignment}[2017/6/18 LaTeX assignment template]
 
 % Declare options
 
